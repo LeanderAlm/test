@@ -1,3 +1,24 @@
+#Premissas assumidas
+Senhor Eduardo é proprietário de um canil em Belo Horizonte.
+O canil trabalha com diversas raças de cães, pequenas e grandes.
+Eduardo valoriza que seus cães estejam sempre bem cuidados, felizes e cheirosos.
+No bairro do canil, existem três petshops para realizar o banho nos animais: Meu Canino Feliz, Vai Rex e ChowChawgas.
+Cada petshop cobra preços diferentes para banho em cães pequenos e grandes, e os preços podem variar de acordo com o dia da semana.
+Meu Canino Feliz está distante 2km do canil. Em dias de semana, o banho para cães pequenos custa R$ 20,00 e para cães grandes custa R$ 40,00. Durante os finais de semana, os preços são aumentados em 20%.
+Vai Rex está localizado na mesma avenida do canil, a 1,7km de distância. O preço do banho para dias úteis em cães pequenos é R$ 15,00 e em cães grandes é R$ 50,00. Durante os finais de semana, os preços para cães pequenos são R$ 20,00 e para os grandes R$ 55,00.
+ChowChawgas fica a 800m do canil. O preço do banho é o mesmo em todos os dias da semana, sendo R$ 30,00 para cães pequenos e R$ 45,00 para cães grandes.
+O objetivo é encontrar o petshop que ofereça os menores preços. Em caso de empate, o critério de desempate é a proximidade do petshop em relação ao canil de Eduardo.
+
+#Decisões do Prjeto
+Implementar um algoritmo para calcular os preços dos banhos em cada petshop, levando em consideração o tipo de dia (útil ou final de semana) e o tamanho do cão.
+Criar uma função para encontrar o petshop com os preços mais baixos, levando em conta a proximidade em caso de empate.
+Desenvolver uma interface simples para que Eduardo possa facilmente verificar o melhor petshop para levar seus cães.
+
+#Instruções para executar o sistema.
+Adicionar quantidade de cães pequenos e grandes
+Adicionar a data que deseja pesquisar os preços
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
