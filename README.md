@@ -1,4 +1,4 @@
-#Premissas assumidas
+# Premissas assumidas
 Senhor Eduardo é proprietário de um canil em Belo Horizonte.
 O canil trabalha com diversas raças de cães, pequenas e grandes.
 Eduardo valoriza que seus cães estejam sempre bem cuidados, felizes e cheirosos.
@@ -9,12 +9,12 @@ Vai Rex está localizado na mesma avenida do canil, a 1,7km de distância. O pre
 ChowChawgas fica a 800m do canil. O preço do banho é o mesmo em todos os dias da semana, sendo R$ 30,00 para cães pequenos e R$ 45,00 para cães grandes.
 O objetivo é encontrar o petshop que ofereça os menores preços. Em caso de empate, o critério de desempate é a proximidade do petshop em relação ao canil de Eduardo.
 
-#Decisões do Prjeto
+# Decisões do Prjeto
 Implementar um algoritmo para calcular os preços dos banhos em cada petshop, levando em consideração o tipo de dia (útil ou final de semana) e o tamanho do cão.
 Criar uma função para encontrar o petshop com os preços mais baixos, levando em conta a proximidade em caso de empate.
 Desenvolver uma interface simples para que Eduardo possa facilmente verificar o melhor petshop para levar seus cães.
 
-#Instruções para executar o sistema.
+# Instruções para executar o sistema.
 Adicionar quantidade de cães pequenos e grandes
 Adicionar a data que deseja pesquisar os preços
 
